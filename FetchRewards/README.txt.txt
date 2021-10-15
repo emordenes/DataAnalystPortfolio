@@ -18,9 +18,9 @@ You can find the following resources in this GitHub location.
 * ER Diagram
   - ER_Diagram.pdf
 
-* Staekholder Feedback
+* Stakeholder Feedback
   - FetchRewards_StakeHolderFeedback.pdf
-		- Tableaus image:
+		- Tableau image:
 		- https://public.tableau.com/app/profile/esteban.ordenes/viz/FetchRewards_Request3/Sheet1?publish=yes
 
 
