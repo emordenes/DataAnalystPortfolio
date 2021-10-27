@@ -11,7 +11,3 @@ SELECT rrs.RewardReceiptStatus , ISNULL( AVG(r.TotalSpent) , 0 ) AS AverageSpent
 FROM Receipt r
 right JOIN @RewardReceiptStatus rrs ON r.RewardReceiptStatus = rrs.RewardReceiptStatus
 GROUP BY rrs.RewardReceiptStatus
-
-
-
-
